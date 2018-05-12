@@ -4,7 +4,8 @@
   "description": "Project for my Progressive Web Apps course on Lynda.com/LinkedIn Learning",
   "scripts": {
     "start": "node app",
-    "postinstall" : "gulp default"
+    "postinstall" : "gulp default",
+    "poststart": "npm prune --production"
 
   },
   "repository": {
