@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Project for my Progressive Web Apps course on Lynda.com/LinkedIn Learning",
   "scripts": {
-    "start": "node ./index.js"
+    "start": "node app",
+    "postinstall" : "gulp default"
+
   },
   "repository": {
     "type": "git",
