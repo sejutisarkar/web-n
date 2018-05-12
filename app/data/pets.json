@@ -1,0 +1,26 @@
+{
+  "slideshow":
+    [
+      { "pet": "Casper", "owner": "Dalania Devitto", "type": "Dog", "breed": "Bichon frise", "description": "Four-year-old Casper was rescued from a breeder when he was 2, and his owner takes great care in giving him a good life.", "reason": "This dog is coming in for a nail trim and grooming", "filename": "file-55"},
+      { "pet": "Chip", "owner": "Jason Hemlock", "type": "Fish", "breed": "Cichild", "description": "Chip is a vivacious 5-year-old African Cichlid with a bit of a temper towards other fish.", "reason": "This fish has a spotty white patch developing on his back ", "filename": "file-50"},
+      { "pet": "Nugget", "owner": "Darla Branson", "type": "Hamster", "breed": "Golden hamster", "description": "Nugget’s got his name because his owner’s daughter though he looked like a golden nugget when he was a baby.", "reason": "This little nugget has  a rash on his stomach area", "filename": "file-56"}
+  ],
+
+"adoption":
+  [
+    { "pet": "That was your Birthday", "owner": "Reggie Tupp", "type": "Rabbit", "breed": "Here is to remembering the day you were expelled from a Uterus!!", "description": "Happy Birthday to one of the few people whose birthday i can remember without a facebook reminder!", "reason": "It's time for this rabbit's post spaying surgery checkup", "filename": "file6"},
+    { "pet": "In you,I've found the love of my life and my closest truest friend!", "owner": "Krystle Valerija", "type": "Dog", "breed": "You are my favourite notification!", "description": "Sometimes,someone comes so unexpectedly,takes your heart by suprise,and changes your life!!", "reason": "This dog is coming in for his monthly nail trim and grooming", "filename": "file5"},
+    { "pet": "You are some kind of wonderful", "owner": "Austin Finnagan", "type": "Iguana", "breed": "You are the semicolons to my statements!!", "description": "This ia ore happily ever after", "reason": "This iguana's is showing signs of dementia associated with his old age", "filename": "file1"},
+    { "pet": "The sexiest curve in your body is your smile", "owner": "Howie Cadell", "type": "Guinea pig", "breed": "You are my favourite notification!", "description": " Some of the best moments in life are the ones you can't tell anyone about it!Love you.", "reason": "Oddball has a hard lump on right front foot", "filename": "file3"},
+    { "pet": "And suddenly all the love songs were about you", "owner": "Sandie Gobnet", "type": "Turtle", "breed": "samrty", "description": "You lips are like wine and i want to get drunk!", "reason": "This turtle is coming in for a checkup and to be tested for Salmonella", "filename": "file14"},
+    { "pet": "If wishes were kisses,I am sending you loads..", "owner": "Nathan Cayden", "type": "Dog", "breed": "My man", "description": "Don't miss out something  that could be just amazing,just because it could also be difficult.", "reason": "This dog is returning for his next heartworm treatment visit", "filename": "file13"}
+  ],
+
+"appointments" :
+  [
+    { "pet": "My Bae",  "type": "Dog", "breed": "One thing you can't hide,is when you're sad inside. ", "description": "Sami is a very happy go lucky 1-year-old Dalmatian that loves to play.", "reason": "I didn’t plan it, but you’re the best thing that’s ever happened to me.", "filename": "file4"},
+    { "pet": "Bestie",  "type": "Bird", "breed": "I love sarcasm. It’s like punching people in the face but with word", "description": "Cosmo is possibly the happiest parrot that lived, and loves to sing Happy Birthday to anyone that will listen.", "reason": "Distance isn't an issue because in the end, I Have You", "filename": "file10"},
+    { "pet": "My Boo", "owner": "Shad Cayden", "type": "Dog", "breed": "I love your stupid face", "description": "Tibbs suffers from a spinal condition that can cause immobilization and his owner has to watch his activity levels.", "reason": "We fight,we kiss,we hug,we text,we talk,we argue,we laugh, we smile,we love...That's us", "filename": "file12"},
+    { "pet": "Niraj", "owner": "Dennis Nicholback", "type": "Dog", "breed": "You are my favourite", "description": "Four-year-old Stich was born with a birth defect that required surgery at 6 weeks of age.", "reason": "I may not be your first date,crush or love...BUT I WANT TO BE YOUR LAST EVERYTHING.", "filename": "file11"}
+  ]
+}
