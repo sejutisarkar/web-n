@@ -5,11 +5,8 @@
   "scripts": {
     "start": "gulp"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/planetoftheweb/progressive.git"
-  },
-  "author": "Ray Villalobos",
+  
+  "author": "sejuti",
   "devDependencies": {
     "browserify": "^13.1.0",
     "gulp": "^3.9.1",
