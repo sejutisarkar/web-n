@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "Project for my Progressive Web Apps course on Lynda.com/LinkedIn Learning",
   "scripts": {
-    "start": "node run app",
-    "postinstall" : "gulp default",
-    "poststart": "npm prune --production"
-
+    "start": "gulp"
   },
   "repository": {
     "type": "git",
